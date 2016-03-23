@@ -1,0 +1,23 @@
+#body-color{
+background-color:#A9A9F5;
+}
+#Sign-Up{
+
+background-size:500px 500px;
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:center;
+margin-top:150px;
+margin-bottom:150px;
+margin-right:150px;
+margin-left:450px;
+padding:9px 35px; 
+}
+#button{
+border-radius:10px;
+width:100px;
+height:40px;
+background:#C0C0C0;
+font-weight:bold;
+font-size:20px;
+}
